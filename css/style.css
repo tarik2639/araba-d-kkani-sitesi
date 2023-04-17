@@ -1,0 +1,49 @@
+body {
+    background-color:rgb(37, 35, 35);
+    color: whitesmoke;
+    
+}
+
+header {
+    text-align: center;
+}
+h1 {
+    font-style: italic;
+    color: rgb(219, 78, 78)
+}
+
+.fs-largest {
+    font-size: 80px;
+   
+}
+
+h2, h3 {
+    font-size:50px;
+    color: rgb(75, 161, 75);
+    font-style: oblique;
+}
+
+.text-position{
+    text-align: center;
+    font-size: 20px;
+    list-style-position: inside;
+}
+
+#article2 {
+    font-size: 23px;
+}
+
+
+
+a {
+    color:rgb(102, 207, 207);
+    font-size: 35px;
+}
+p, li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
